@@ -53,7 +53,7 @@
 - Click Below Deploy To Heroku
 
 
-- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/LEGENDXOS/LEGENDBOT)
+- [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/forkuserbot10/LEGENDBOT)
 
 ## Deploy Locally
 
@@ -135,7 +135,7 @@
 
 LEGENDXOS
 
-Project [LEGENDBOT](https://github.com/LEGENDXOS/LEGENDBOT) is free software: you can redistribute it and/or modify
+Project [LEGENDBOT](https://github.com/forkuserbot10/LEGENDBOT) is free software: you can redistribute it and/or modify
 
 it under the terms of the GNU General Public License as published by
 
